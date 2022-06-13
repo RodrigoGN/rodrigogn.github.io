@@ -10,7 +10,7 @@ body {
 
 .nav{
     height: 100%;
-    background: url('background-aurora.jpg') bottom no-repeat transparent;
+    background: url('/img/background-aurora.jpg') bottom no-repeat transparent;
     background-size: cover;
     }
 
