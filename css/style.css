@@ -234,24 +234,3 @@ a {
     .loader span:nth-child(22) {
         -webkit-animation-delay: 2.1s;
     }
-
-
-#seta-scroll-top-container{
-    display:none;
-    position:fixed;
-    cursor:pointer;
-    z-index:9999
-}
-#seta-scroll-top-container div.text-holder{
-    padding:3px 10px;
-    border-radius:3px;
-    -webkit-border-radius:3px;
-    -webkit-box-shadow:4px 4px 5px 0 rgba(50,50,50,0.5);
-    -moz-box-shadow:4px 4px 5px 0 rgba(50,50,50,0.5);
-    box-shadow:4px 4px 5px 0 rgba(50,50,50,0.5)
-}
-#seta-scroll-top-container a{
-    outline-style:none;
-    box-shadow:none;
-    text-decoration:none
-}
